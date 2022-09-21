@@ -1,0 +1,10 @@
+h2 {
+  margin: 1rem 0rem;
+}
+
+.ce-app-container {
+  display: flex;
+  flex-direction: column;
+  width: 80vw;
+  height: 100vh;
+}

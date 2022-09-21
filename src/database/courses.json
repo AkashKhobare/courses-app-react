@@ -1,0 +1,50 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Physics",
+      "description": "Physics course"
+    },
+    {
+      "id": 2,
+      "title": "Chemistry",
+      "description": "Chemistry course"
+    },
+    {
+      "id": 3,
+      "title": "Biology",
+      "description": "Biology course"
+    },
+    {
+      "id": 4,
+      "title": "Mathematics",
+      "description": "Mathematics course"
+    }
+  ],
+  "users": [
+    {
+      "id": 1000,
+      "email": "abc@xyz.com",
+      "phone": "1234567890",
+      "course": 1
+    },
+    {
+      "email": "adsad@1ds.com",
+      "phone": "7129319492",
+      "course": 2,
+      "id": 1001
+    },
+    {
+      "email": "adj@j.com",
+      "phone": "123123141",
+      "course": 3,
+      "id": 1002
+    },
+    {
+      "email": "adj@j.com",
+      "phone": "7897779898",
+      "course": 1,
+      "id": 1003
+    }
+  ]
+}
